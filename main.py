@@ -1,4 +1,4 @@
-# romans kucerenko 211RDB275 4.grupa
+# Romans Kucerenko 211RDB275 4.grupa
 
 from collections import namedtuple
 Bracket = namedtuple("Bracket", ["char", "position"])
